@@ -52,7 +52,7 @@
 
                     <ul class="siderbar_menu">
                         <li>
-                            <a href="../Admin/AdminHome.aspx">
+                            <a href="../Admin/home.aspx">
                                 <div class="icon"><i class="fas fa-home"></i></div>
                                 <div class="title">Home</div>
                             </a>
